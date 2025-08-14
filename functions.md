@@ -1,10 +1,10 @@
 ## 目次
-[プログラミングの諸注意](#プログラミングの諸注意)
-[Steering関数](#steering関数)
-[Motor関数](#motor関数)
-[Keep_until関数](#keep_until関数)
-[Repeat_until文](#repeat_until文)
-[if文](#if文)
+[プログラミングの諸注意](#プログラミングの諸注意)  
+[Steering関数](#steering関数)  
+[Motor関数](#motor関数)  
+[Keep_until関数](#keep_until関数)  
+[Repeat_until文](#repeat_until文)  
+[if文](#if文)  
 [Is_it_true関数](#is_it_true関数)
 
 ## プログラミングの諸注意
